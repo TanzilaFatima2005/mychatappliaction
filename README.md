@@ -1,0 +1,2 @@
+# mychatappliaction
+architechure chat
